@@ -96,3 +96,8 @@ anime-assistant/
 ├── requirements.txt    # Liste des librairies Python nécessaires
 └── README.md           # Ce fichier de documentation
 
+---
+
+### 👤 Auteur
+Projet réalisé par **Chirine Nouar & Glenn Mboga**.
+
