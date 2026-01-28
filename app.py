@@ -19,6 +19,17 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+# -----------------------------------------------------------------------------
+# 3. Création de mot de passe pour accès restreint (optionnel)
+# -----------------------------------------------------------------------------
+
+password = st.text_input("Entrez le mot de passe pour accéder à l'application :", type="password")
+
+if password ==  st.secrets["app_password"]:
+    st.success("Accès autorisé ! Bienvenue.")
+else:
+    st.error("Mot de passe incorrect. Veuillez réessayer.")
+    st.stop()
 
 # -----------------------------------------------------------------------------
 # 2. Chargement des données et Entraînement (Mis en cache)
