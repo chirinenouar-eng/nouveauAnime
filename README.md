@@ -1,15 +1,18 @@
 🎌 Anime Assistant & Analytics
-📊 Description Ce projet est une application web interactive conçue pour les passionnés d'animation japonaise. Elle combine la puissance du Natural Language Processing (NLP) et de la Data Visualization pour offrir une expérience utilisateur fluide et informative.
+
+📊 Description
+
+ Ce projet est une application web interactive conçue pour les passionnés d'animation japonaise. Elle combine la puissance du Natural Language Processing (NLP) et de la Data Visualization pour offrir une expérience utilisateur fluide et informative.
 
 L'objectif est double : permettre aux utilisateurs d'explorer une vaste base de données d'animes via des graphiques dynamiques, tout en interagissant avec un agent conversationnel intelligent capable de comprendre des requêtes naturelles, d'extraire des informations spécifiques et de recommander du contenu.
 
 L'application met un point d'honneur sur la transparence de l'IA en permettant d'analyser en temps réel comment le modèle prend ses décisions et où se situent ses incertitudes.
 
-🎯 Parcours Parcours B : Projet Personnel sur la recommandation et l'analyse d'Animes.
+🎯 Parcours: Projet Personnel sur la recommandation et l'analyse d'Animes.
 
 📁 Dataset
 
-Source : MyAnimeList Dataset (Kaggle) ou extraction CSV locale.
+Source : MyAnimeList Dataset (Kaggle) (nous avons extrait le csv)
 
 Taille : +10 000 lignes, 12 colonnes.
 
@@ -81,7 +84,7 @@ streamlit run app.py
 
 👥 Équipe
 
-[Votre Nom] - Développeur Fullstack & Data Scientist
+ Chirine NOUAR et Glenn MBOGA
 
 📝 Notes
 
